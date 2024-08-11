@@ -6,7 +6,6 @@ import java.util.Scanner;
  * 縛道と破道はランダムで番号、受け取った名前とともに生成
  * 
  * @H.Otubo
- * @I.Awa (レビュア)
  */
 public class Main {
 
